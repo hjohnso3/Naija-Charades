@@ -125,7 +125,7 @@ class _CategoryPageState extends State<CategoryPage> {
         ),
         CategoryCard(text: 'Shows'),
         CategoryCard(text: 'Presidents'),
-        CategoryCard(text: 'Famous Landscapes'),
+        CategoryCard(text: 'Landscapes'),
         CategoryCard(text: 'Languages'),
         CategoryCard(text: 'Books'),
         CategoryCard(text: 'Songs'),
