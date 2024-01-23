@@ -1,16 +1,26 @@
-# naija_charades_app
+# Naija Charades App
 
-Charades App for Nigerians
+## Overview
+
+Welcome to the Naija Charades Mobile App built with Flutter! 
+
+This app provides a fun and interactive way to play the classic game of charades right on your mobile device.
+
+## Features
+
+- **User-friendly Interface:** Enjoy a sleek and intuitive design for an enhanced gaming experience.
+- **Categories:** Choose from a variety of categories to tailor the game to your preferences.
+- **Random Word Generator:** Get a random word or choose a category to act out or guess.
+- **Scorekeeping:** Keep track of scores for a competitive edge.
+
+## Tech Stack
+
+- **Flutter:** This app is built using the Flutter framework for cross-platform mobile development.
+- **Dart:** The programming language used for Flutter development.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. **Clone Repository:**
+   ```bash
+   git clone https://github.com/hjohnso3/Naija-Charades.git
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
