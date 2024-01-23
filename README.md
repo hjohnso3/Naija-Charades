@@ -1,5 +1,7 @@
 # Naija Charades App
 
+[Demo.webm](https://github.com/hjohnso3/Naija-Charades/assets/10874595/bab52b84-5491-44d3-a585-cb9f3cd0ad9a)
+
 ## Overview
 
 Welcome to the Naija Charades Mobile App built with Flutter! 
